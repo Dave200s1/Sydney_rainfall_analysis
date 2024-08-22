@@ -9,6 +9,16 @@ Das ist ein kleines Übungsprojekt von mir welches die Niederschlagswerte von Sy
 * Dash-Bibliothek
 * pandas
 * numpy
+
+## Abbildungen
+
+
+
+## Herkunft der Daten
+# Disclaimer:
+Ich besitze die bereitgestellte Niederschlagsdaten nicht, die wurden von den Australian Government Bureau of Meteorology bereitgestellt.
+
+* Link: http://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?p_nccObsCode=136&p_display_type=dailyDataFile&p_startYear=2018&p_c=-876954451&p_stn_num=066214
   
 ## Icons
 
