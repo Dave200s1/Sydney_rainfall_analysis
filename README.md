@@ -15,7 +15,7 @@ Das ist ein kleines Übungsprojekt von mir welches die Niederschlagswerte von Sy
 ![Alt text](Screenshot_Aussie_Rainfall.png "Optional title")
 
 ## Hinweis
-Das Dashboard wird im Browser extern geöffnet auf folgender Port 8050.
+Das Dashboard muss im Browser extern geöffnet auf folgender Port 8050.
 
 ## Herkunft der Daten
 ### Disclaimer:
